@@ -39,4 +39,4 @@ print("Product of two arrays is:",result)
 ![](./out.jpg)
 
 ## RESULT:
-Thus the the multiplication of matrix is done.
+Thus the multiplication of matrix is done.
