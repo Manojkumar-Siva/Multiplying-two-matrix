@@ -16,7 +16,11 @@ Multiply the two matrices.
 ### Step 5:
 Display the result.
 
-## PROGRAM: 
+## PROGRAM:
+Develped by : MANOJ KUMAR.S
+
+Reg.No: 21500146
+ 
 ```
 import numpy as np
 m=int(input())
